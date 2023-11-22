@@ -5,6 +5,10 @@ class Demo{
         int sum = num1 + num2;
         System.out.println(sum);
     }
+
+    void sub(){
+        System.out.println("Substraction");
+    }
 }
 
 public class Main {
